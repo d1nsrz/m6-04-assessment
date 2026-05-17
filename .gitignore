@@ -1,3 +1,7 @@
 data/
 
+runs/
+
 yolo26n.pt
+
+*.png
